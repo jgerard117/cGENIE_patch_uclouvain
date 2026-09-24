@@ -11,7 +11,7 @@ This is a small patch developped to modify files of the genie-main directory so 
 
 ##### Fresh install
 
-From a fresh install of cGENIE, simply edit the homedir variable in the "config.py" file to indicate in what repo have put the "cgenie.muffin" folder. Then simply run
+From a fresh install of cGENIE, simply edit the homedir variable in the "config.py" file to indicate in what repo you have put the "cgenie.muffin" folder. Then simply run
 ```
 bash patch_uclouvain.sh
 ```
